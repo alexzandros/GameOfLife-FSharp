@@ -1,0 +1,16 @@
+/home/carlos/Documentos/fsharp/primoTesto/tests/obj/Debug/netcoreapp2.2/tests.fsprojAssemblyReference.cache
+/home/carlos/Documentos/fsharp/primoTesto/tests/obj/Debug/netcoreapp2.2/tests.AssemblyInfoInputs.cache
+/home/carlos/Documentos/fsharp/primoTesto/tests/obj/Debug/netcoreapp2.2/tests.AssemblyInfo.fs
+/home/carlos/Documentos/fsharp/primoTesto/tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/carlos/Documentos/fsharp/primoTesto/tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/home/carlos/Documentos/fsharp/primoTesto/tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/home/carlos/Documentos/fsharp/primoTesto/tests/bin/Debug/netcoreapp2.2/tests.deps.json
+/home/carlos/Documentos/fsharp/primoTesto/tests/bin/Debug/netcoreapp2.2/tests.runtimeconfig.json
+/home/carlos/Documentos/fsharp/primoTesto/tests/bin/Debug/netcoreapp2.2/tests.runtimeconfig.dev.json
+/home/carlos/Documentos/fsharp/primoTesto/tests/bin/Debug/netcoreapp2.2/tests.dll
+/home/carlos/Documentos/fsharp/primoTesto/tests/bin/Debug/netcoreapp2.2/tests.pdb
+/home/carlos/Documentos/fsharp/primoTesto/tests/bin/Debug/netcoreapp2.2/primoTesto.dll
+/home/carlos/Documentos/fsharp/primoTesto/tests/bin/Debug/netcoreapp2.2/primoTesto.pdb
+/home/carlos/Documentos/fsharp/primoTesto/tests/obj/Debug/netcoreapp2.2/tests.fsproj.CopyComplete
+/home/carlos/Documentos/fsharp/primoTesto/tests/obj/Debug/netcoreapp2.2/tests.dll
+/home/carlos/Documentos/fsharp/primoTesto/tests/obj/Debug/netcoreapp2.2/tests.pdb

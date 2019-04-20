@@ -1,0 +1,13 @@
+/home/carlos/Documentos/fsharp/primoTesto/bin/Debug/netcoreapp2.2/linux-x64/libhostpolicy.so
+/home/carlos/Documentos/fsharp/primoTesto/bin/Debug/netcoreapp2.2/linux-x64/libhostfxr.so
+/home/carlos/Documentos/fsharp/primoTesto/bin/Debug/netcoreapp2.2/linux-x64/primoTesto
+/home/carlos/Documentos/fsharp/primoTesto/bin/Debug/netcoreapp2.2/linux-x64/primoTesto.deps.json
+/home/carlos/Documentos/fsharp/primoTesto/bin/Debug/netcoreapp2.2/linux-x64/primoTesto.runtimeconfig.json
+/home/carlos/Documentos/fsharp/primoTesto/bin/Debug/netcoreapp2.2/linux-x64/primoTesto.runtimeconfig.dev.json
+/home/carlos/Documentos/fsharp/primoTesto/bin/Debug/netcoreapp2.2/linux-x64/primoTesto.dll
+/home/carlos/Documentos/fsharp/primoTesto/bin/Debug/netcoreapp2.2/linux-x64/primoTesto.pdb
+/home/carlos/Documentos/fsharp/primoTesto/obj/Debug/netcoreapp2.2/linux-x64/primoTesto.fsprojAssemblyReference.cache
+/home/carlos/Documentos/fsharp/primoTesto/obj/Debug/netcoreapp2.2/linux-x64/primoTesto.AssemblyInfoInputs.cache
+/home/carlos/Documentos/fsharp/primoTesto/obj/Debug/netcoreapp2.2/linux-x64/primoTesto.AssemblyInfo.fs
+/home/carlos/Documentos/fsharp/primoTesto/obj/Debug/netcoreapp2.2/linux-x64/primoTesto.dll
+/home/carlos/Documentos/fsharp/primoTesto/obj/Debug/netcoreapp2.2/linux-x64/primoTesto.pdb
